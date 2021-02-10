@@ -1,2 +1,2 @@
 # Consultar CEP
-Consulta de CEPs utilizando o WebService do Correios.
+Consulta de CEPs utilizando o WebService dos Correios.
